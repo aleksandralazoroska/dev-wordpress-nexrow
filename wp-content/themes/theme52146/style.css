@@ -1,0 +1,131 @@
+/*--
+	Theme Name: theme52146
+	Theme URI: http://info.template-help.com/help/
+	Description: A theme for Wordpress 4.x
+	Author: Template_Help.com
+	Author URI: http://info.template-help.com/help/
+	Template: CherryFramework
+	Version: 3.1.4
+--*/
+
+/* ----------------------------------------
+	Please, You may put custom css here
+---------------------------------------- */
+
+p {
+	margin: 0;
+}
+
+.home .content-holder {
+	padding-bottom: 0;
+}
+
+.about-us [class*="span"], .why-us [class*="span"] {
+	margin-left: 0;
+}
+
+.showcase-wrap .image-wrap .thumbnail {
+    left: 84px !important;
+    top: 62px !important;
+}
+
+.featured-thumbnail img, .thumbnail img, figure.frame img, .showcase-wrap .image-wrap .thumbnail .zoom-icon {
+    width: 69% !important;
+}
+
+.showcase-wrap .image-wrap {
+height: 400px !important;
+  width: 320px !important;
+    margin-left: -160px !important;
+background-size: contain !important;
+background-image: none !important;
+}
+
+
+.service-box.left-align .icon img {
+	width: 25%;
+}
+
+.cbp-qtcontent > header {
+    color: #000;
+    font: 600 20px/1.2em "Raleway",sans-serif;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.tslider blockquote p {
+
+    color: #787878 !important;
+    font: 500 14px/22px "Raleway",sans-serif !important;
+}
+
+.cbp-qtcontent {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.cbp-qtcontent blockquote {
+	border-left: 0 !important;
+	margin: 40px 0 !important;
+}
+
+
+.tslider .cbp-qtcontent .sliderText
+{
+    float: right;
+    line-height: 30px;
+    margin-top: -30px;
+    padding-left: 2%;
+    width: 47%;
+}
+
+.tslider .cbp-qtcontent img {
+    border-radius: 0 !important;
+    float: left;
+	margin-top:0;
+    max-width: 100% !important;
+-webkit-box-shadow: 10px 0 20px -6px rgba(0,0,0,0.75) !important;
+-moz-box-shadow: 10px 0 20px -6px rgba(0,0,0,0.75) !important;
+box-shadow: 10px 0 20px -6px rgba(0,0,0,0.75) !important;
+margin-right: 1em !important;
+}
+
+
+@media screen and (max-width: 991px) {
+
+.cbp-qtcontent blockquote {
+    float: left;
+    width: 84%;
+}
+
+.tslider .cbp-qtcontent img {
+    border-radius: 100%;
+    box-shadow: none;
+    float: none;
+    margin: 0 auto;
+    max-width: 100%;
+    text-align: center;
+}
+
+
+.cbp-qtcontent blockquote {
+    float: left;
+    width: 100%;
+}
+
+.tslider .cbp-qtcontent .sliderText {
+    margin-top: 10px;
+    width: 100%;
+}
+}
+
+@media screen and (max-width: 768px) {
+
+.service-box.left-align .icon {
+	text-align: center;
+}
+.service-box.left-align .icon img {
+	width: auto !important;
+}
+
+}

@@ -1,4 +1,4 @@
-a:4:{s:4:"root";s:63:"/var/www/html/wordpress/wp-content/themes/theme52146/style.less";s:8:"compiled";s:85604:"@import url("../CherryFramework/style.css");
+a:4:{s:4:"root";s:60:"/var/www/html/nexrow/wp-content/themes/theme52146/style.less";s:8:"compiled";s:85604:"@import url("../CherryFramework/style.css");
 @import url(//fonts.googleapis.com/css?family=Raleway:400,500,700,600);
 .main-holder {
 	z-index:100;
@@ -2521,4 +2521,4 @@ blockquote p { line-height:22px; }
 	-moz-box-sizing:border-box;
 	box-sizing:border-box;
 }
-";s:5:"files";a:3:{s:63:"/var/www/html/wordpress/wp-content/themes/theme52146/style.less";i:1449496035;s:82:"/var/www/html/wordpress/wp-content/themes/theme52146/bootstrap/less/variables.less";i:1452245498;s:79:"/var/www/html/wordpress/wp-content/themes/theme52146/bootstrap/less/mixins.less";i:1449496035;}s:7:"updated";i:1453144063;}
+";s:5:"files";a:3:{s:60:"/var/www/html/nexrow/wp-content/themes/theme52146/style.less";i:1507146973;s:79:"/var/www/html/nexrow/wp-content/themes/theme52146/bootstrap/less/variables.less";i:1507146973;s:76:"/var/www/html/nexrow/wp-content/themes/theme52146/bootstrap/less/mixins.less";i:1507146973;}s:7:"updated";i:1507799462;}
